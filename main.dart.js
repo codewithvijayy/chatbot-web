@@ -40746,7 +40746,7 @@ $1(a){return null},
 $S:291}
 A.kG.prototype={
 TJ(a){var s
-this.a=A.aKQ(A.avF(A.cJ("ws://100.87.180.122:5000/ws/v1/chatbot/"),null))
+this.a=A.aKQ(A.avF(A.cJ("ws://106.76.174.16:5000/ws/v1/chatbot/"),null))
 a.eR($.avl().gjI(),t.lR).Lg(null)
 s=this.a.r.b
 s===$&&A.a()
